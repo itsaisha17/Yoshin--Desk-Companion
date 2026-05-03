@@ -55,6 +55,9 @@ Perfect for:
 ```
 ---
 ## 📱 Mobile App Features
+<img align="left" width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/c4c6357f-b248-4116-8e0d-c5bfdb6a93da" /><img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/0e2f8c04-3a0a-431c-950a-5e23443198dd" />
+
+
 
 ### 🗓️ Today’s Schedule
 - Add and manage tasks with real-time toggling (open/upcoming)
